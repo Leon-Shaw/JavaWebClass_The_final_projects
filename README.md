@@ -1,4 +1,4 @@
-# JavaWebClass
+# JavaWebClass_The_final_projects
 The final projects of the  Jin Xiaoxia's Java Web class.
 
 ## 课程中项目地址
